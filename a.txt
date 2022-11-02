@@ -9,3 +9,4 @@ admin dept purchases office stationeries , purchase dept office equipments such 
 we have developed an mvp
 launching creation of beta product
 beta product launched
+press release of successfull beta product
