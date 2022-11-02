@@ -8,3 +8,4 @@ Hiring and forming the hr, administrative and purchase dpt
 admin dept purchases office stationeries , purchase dept office equipments such as computers and printers
 we have developed an mvp
 launching creation of beta product
+beta product launched
